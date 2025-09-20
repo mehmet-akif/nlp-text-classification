@@ -40,7 +40,7 @@ Steps followed in this project:
 *(Values are approximate depending on random seed and dataset split.)*
 
 Sample classification:
-```text
+
 Review: "The guitar quality is amazing, I love it!"
 Prediction: Positive (1)
 
